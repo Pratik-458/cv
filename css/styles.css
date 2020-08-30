@@ -79,6 +79,9 @@ a:hover{
   font-size: 0.75rem;
   padding: 20px 0;
 }
+.profile-img{
+  width: 15%;
+}
 .skill-1-img {
   float: left;
   width: 25%;
